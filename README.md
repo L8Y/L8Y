@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L8Y
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me @Aravind_L8Y on Twitter
 
 <!---
